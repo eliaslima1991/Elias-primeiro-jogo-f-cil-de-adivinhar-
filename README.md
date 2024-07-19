@@ -22,12 +22,15 @@ Para jogar, siga estas etapas:
 
 ### Exemplo de uso:
 # Elias-primeiro-jogo-f-cil-de-adivinhar-
+
+print("****************"
+
 import random
 
 def jogo_adivinhacao():
     numero_secreto = random.randint(1, 100)
     tentativas = 0
-    max_tentativas = 10
+    max_tentativas = 30
 
     print("Bem-vindo ao jogo de adivinhação!")
     print("Eu pensei em um número entre 1 e 100.")
@@ -54,3 +57,5 @@ def jogo_adivinhacao():
 
 if __name__ == "__main__":
     jogo_adivinhacao()
+
+print( ' Obrigado por testar nosso jogo ' ) 

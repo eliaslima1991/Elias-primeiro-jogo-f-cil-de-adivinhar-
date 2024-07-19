@@ -1,3 +1,26 @@
+# Jogo de Adivinhação em Python
+
+## Descrição
+
+Este projeto é um simples jogo de adivinhação escrito em Python. O objetivo do jogo é adivinhar um número secreto escolhido aleatoriamente pelo computador, dentro de um intervalo de 1 a 100. O jogador tem um número limitado de tentativas para adivinhar o número corretamente.
+
+## Como Funciona
+
+1. O computador escolhe um número secreto aleatório entre 1 e 100.
+2. O jogador tem até 10 tentativas para adivinhar o número secreto.
+3. A cada palpite, o jogo informa se o número secreto é maior ou menor que o palpite dado.
+4. O jogo termina quando o jogador adivinha o número corretamente ou quando esgotam-se as tentativas.
+
+## Executando o Jogo
+
+Para jogar, siga estas etapas:
+
+1. Certifique-se de ter o Python instalado em sua máquina.
+2. Clone este repositório.
+3. Navegue até o diretório do projeto.
+4. Execute o script `jogo_adivinhacao.py`.
+
+### Exemplo de uso:
 # Elias-primeiro-jogo-f-cil-de-adivinhar-
 import random
 

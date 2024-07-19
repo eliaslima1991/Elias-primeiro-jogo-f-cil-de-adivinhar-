@@ -23,7 +23,7 @@ Para jogar, siga estas etapas:
 ### Exemplo de uso:
 # Elias-primeiro-jogo-f-cil-de-adivinhar-
 
-print("****************")
+print("****************") 
 
 import random
 
@@ -58,4 +58,4 @@ def jogo_adivinhacao():
 if __name__ == "__main__":
     jogo_adivinhacao()
 
-print( ' Obrigado por testar nosso jogo ' ) 
+print( 'Obrigado por testar nosso jogo ') 

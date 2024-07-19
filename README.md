@@ -23,7 +23,7 @@ Para jogar, siga estas etapas:
 ### Exemplo de uso:
 # Elias-primeiro-jogo-f-cil-de-adivinhar-
 
-print("****************"
+print("****************")
 
 import random
 

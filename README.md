@@ -1,4 +1,4 @@
-# Jogo de Adivinhação em Python
+# Jogo de Adivinhação Elias Lima
 
 ## Descrição
 
